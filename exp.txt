@@ -1,0 +1,3 @@
+Number of Samples: 14552
+Number of Categories: 2
+Sampling Frequency: 125Hz
